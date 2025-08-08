@@ -1,0 +1,49 @@
+* {
+  outline: none;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0;
+  margin-left: 0;
+  /*padding-left: 5%;*/
+  height: auto;
+  /*padding-right: 5%;*/
+  /*padding-top: 5%;*/
+  /*padding-bottom: 5%;*/
+}
+
+.container {
+  max-width: 1200px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0;
+  margin-left: 0;
+  padding-left: 0px;
+  height: auto;
+}
+
+.d-flex {
+  display: flex!important;
+}
+
+* {
+  font-family: roboto;
+}
+
+button, a, input, select, textarea {
+  cursor: url('../../assets/img/Assets/ball.webp'), auto!important;
+}
+

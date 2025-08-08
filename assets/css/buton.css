@@ -1,0 +1,22 @@
+* {
+  outline: none;
+}
+
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: var(--bs-btn-hover-bg);
+  border-color: var(--bs-btn-hover-border-color);
+}
+
+.white-btn:hover {
+  box-shadow: 0px 0px 10px var(--bs-success);
+}
+
+* {
+  font-family: roboto;
+}
+
+button, a, input, select, textarea {
+  cursor: url('../../assets/img/Assets/ball.webp'), auto!important;
+}
+

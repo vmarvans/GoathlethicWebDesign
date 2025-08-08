@@ -1,0 +1,8 @@
+* {
+  font-family: roboto;
+}
+
+button, a, input, select, textarea {
+  cursor: url('../../assets/img/Assets/ball.webp'), auto!important;
+}
+
